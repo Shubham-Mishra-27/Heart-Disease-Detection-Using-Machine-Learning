@@ -72,5 +72,3 @@ npm start
 Frontend will run on:
 http://localhost:3000
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
