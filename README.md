@@ -72,4 +72,24 @@ npm start
 
 Frontend will run on:
 http://localhost:3000
-```bash
+
+### Usage
+Open the website
+Fill in your health details
+Click Predict
+View your heart disease risk
+
+### Model Details
+Model: LightGBM Classifier
+Input Shape: (1, 11)
+Output:
+Probability score (0 to 1)
+Binary classification
+
+### Future Improvements
+📱 Mobile application support
+📊 Better visual analytics (charts & graphs)
+🧬 Integration with wearable health devices
+🤖 More advanced ML models
+🏥 Doctor consultation integration
+
