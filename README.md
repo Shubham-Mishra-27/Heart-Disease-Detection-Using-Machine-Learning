@@ -52,6 +52,25 @@ The system combines a user-friendly frontend with a powerful backend model to ma
 ## 🚀 Setup
 
 ### 1. Clone repository
+git clone https://github.com/Shubham-Mishra-27/Heart-Disease-Detection-Using-Machine-Learning.git
+cd Heart-Disease-Detection-Using-Machine-Learning
+
+
+###🔹 2. Run Backend
+cd backend
+pip install -r requirements.txt
+uvicorn app:app --reload
+
+Backend will run on:
+http://127.0.0.1:8000
+
+###🔹 3. Run Frontend
+cd frontend
+npm install
+npm start
+
+Frontend will run on:
+http://localhost:3000
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
