@@ -57,7 +57,7 @@ git clone https://github.com/Shubham-Mishra-27/Heart-Disease-Detection-Using-Mac
 cd Heart-Disease-Detection-Using-Machine-Learning
 
 
-###🔹 2. Run Backend
+### 2. Run Backend
 cd backend
 pip install -r requirements.txt
 uvicorn app:app --reload
@@ -65,7 +65,7 @@ uvicorn app:app --reload
 Backend will run on:
 http://127.0.0.1:8000
 
-###🔹 3. Run Frontend
+### 3. Run Frontend
 cd frontend
 npm install
 npm start
